@@ -17,9 +17,32 @@ body{
 }
 .text-color{
     font-size: 40px;
-    color:mediumslateblue;
+    color: orange;
 }
 main{
     max-width: 870px;
     background-color: #FFFFFF;
+}
+.try img{
+    width: 200px;
+}
+.span-color-1{
+   color: orange;
+}
+.saction-size{
+    width: 920px;
+    background-color: #FFFFFF;
+}
+.background{
+    box-shadow: 10px 10px 20px gray;
+    border-radius: 12px;
+    text-align: center;
+}
+button{
+    background-color: orange;
+    padding: 7px 20px;
+    border-radius: 7px;
+}
+.card-text{
+    color: orangered;
 }
