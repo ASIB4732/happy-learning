@@ -1,0 +1,25 @@
+
+body{
+    background-color: #F3F1FF;
+}
+.header{
+    background-color: orange;
+}
+.nav-position{
+    margin-left: 70%;
+}
+.web-logo{
+    width: 70px;
+}
+
+.img-size{
+    width: 60px;
+}
+.text-color{
+    font-size: 40px;
+    color:mediumslateblue;
+}
+main{
+    max-width: 870px;
+    background-color: #FFFFFF;
+}
